@@ -53,7 +53,7 @@ Follow me at [twitter](https://twitter.com/valorkin) to be notified about new re
 - `chartType` (`?string`) - indicates the type of charts, it can be: 'Line', 'Bar', 'Radar', 'Pie', 'PolarArea', 'Doughnut'
 - `options` (`?any`) - chart options (as from [Chart.js documentation](http://www.chartjs.org/docs/))
 - `series` (`?Array<any>`) - name points on the chart, work for line, bar and radar
-- `colours` (`?Array<any>`) - data colours, will use default colours if not specified ([see readme for components](https://github.com/valor-software/ng2-charts/blob/master/components/charts/readme.md))
+- `colors` (`?Array<any>`) - data colors, will use default colors if not specified ([see readme for components](https://github.com/valor-software/ng2-charts/blob/master/components/charts/readme.md))
 - `legend`: (`?boolean=false`) - if true show legend below the chart, otherwise not be shown
 
 ### Events
